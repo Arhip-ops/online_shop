@@ -4,6 +4,7 @@
 #### Розробники проекту:
 - Назар Зозуля/Nazar Zozulya (https://github.com/Nazar-Zozulya)
 - Архип Гончар/Archip Gonchar (https://github.com/Arhip-ops)
+- Артем Полупан/Artem Polupan (https://github.com/ArtemPolupan-coder)
 ***
 Цей проект є **повноцінним** онлайн-магазином/This project is a **full** online store
 З функціями/With features:
@@ -219,5 +220,4 @@ password: admin
 Данний проект був неймовірно корисним для особистого розвитку та для отримання нових навичок професійного рівня, а також ознайомлення з jinja, JavaScript, Flask/This project was incredibly useful for personal development and for acquiring new professional-level skills, as well as for getting acquainted with jinja, JavaScript, Flask
 <<<<<<< HEAD
 #
-#   o n l i n e _ s h o p  
- 
+#
